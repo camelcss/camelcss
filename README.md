@@ -5,6 +5,6 @@
 
 <div align="center"><b><sub><code>v0.0.0</code></sub></b></div>
  
-**<div align="center" style="padding-top: 1.25rem">[Getting Started](#Getting Started) • <a href="#Classes" target="_blank">Classes</a> • [Components](#Components) • [Features](#Features) • [About](#About)</div>**
+**<div align="center" style="padding-top: 1.25rem">[Getting Started](#GettingStarted) • <a href="#Classes" target="_blank">Classes</a> • [Components](#Components) • [Features](#Features) • [About](#About)</div>**
 
 ##
