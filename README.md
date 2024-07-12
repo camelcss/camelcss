@@ -5,6 +5,6 @@
 
 <div align="center"><b><sub><code>v0.0.0</code></sub></b></div>
  
-**<div align="center" style="padding-top: 1.25rem">[Getting Started](https://swingmusic.vercel.app/downloads) • <a href="https://swingmusic.vercel.app/support-us.html" target="_blank">Classes</a> • [Components](https://swingmusic.vercel.app/guide/introduction.html) • [Features](https://swingmusic.vercel.app) • [About](https://www.reddit.com/r/SwingMusicApp)</div>**
+**<div align="center" style="padding-top: 1.25rem">[Getting Started](#Getting Started) • <a href="https://swingmusic.vercel.app/support-us.html" target="_blank">Classes</a> • [Components](https://swingmusic.vercel.app/guide/introduction.html) • [Features](https://swingmusic.vercel.app) • [About](https://www.reddit.com/r/SwingMusicApp)</div>**
 
 ##
